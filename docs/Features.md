@@ -1,21 +1,33 @@
-# Product Vision
+# Features
 
-## Vision
+## Version 1 Features
 
-To make cinematic storytelling accessible to everyone by transforming simple ideas into professionally directed AI-generated videos.
+### Story Generation
 
-## Mission
+Generate a complete story from a simple user idea.
 
-CineForge AI aims to simplify the filmmaking process by acting as an AI Director that helps creators generate stories, plan scenes, decide cinematic shots, and create AI-ready prompts without requiring filmmaking expertise.
+### Scene Breakdown
 
-## Problem Statement
+Automatically divide the story into cinematic scenes.
 
-Creating cinematic AI videos requires knowledge of storytelling, cinematography, prompt engineering, and multiple AI tools. This makes the process difficult for beginners and time-consuming for professionals.
+### AI Director
 
-## Solution
+Determine:
 
-CineForge AI provides an AI Director that converts a simple idea into a complete filmmaking plan, including story generation, scene breakdown, camera decisions, character details, and AI prompts.
+- Camera Angle
+- Camera Movement
+- Lens
+- Lighting
+- Mood
 
-## Long-Term Vision
+### Character Sheet
 
-Build an end-to-end AI filmmaking platform where users can create, edit, and export cinematic videos from a single idea.
+Maintain consistent character details.
+
+### Prompt Generation
+
+Generate prompts ready for AI video generation tools.
+
+### Export
+
+Allow users to export stories and prompts.
