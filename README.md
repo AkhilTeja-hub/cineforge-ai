@@ -1,23 +1,66 @@
-Problem Statement
+# 🎬 CineForge AI
 
-Creating high-quality AI videos is difficult because creators often need to:
+<p align="center">
+  <b>Transform Ideas into Cinematic Stories with AI.</b><br>
+  AI Director • Story Generator • Scene Planner • Prompt Generator
+</p>
 
-Write compelling stories
-Plan scenes and shot sequences
-Understand camera angles and cinematography
-Create detailed AI prompts
-Use multiple tools to complete a single project
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-V1-blue" />
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange" />
+  <img src="https://img.shields.io/badge/License-MIT-green" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-success" />
+</p>
 
-This process is time-consuming and requires technical and creative expertise.
+---
 
-💡 Solution
+## ✨ Overview
 
-CineForge AI simplifies the entire workflow.
+...
 
-The user provides a simple idea, and the AI automatically:
+---
 
-Expands the idea into a complete story
-Breaks the story into cinematic scenes
-Acts as an AI Director by selecting camera angles, lighting, mood, and movement
-Generates consistent character descriptions
-Produces high-quality prompts ready for AI video generation tools
+## 🎯 Problem
+
+...
+
+---
+
+## 💡 Solution
+
+...
+
+---
+
+## 🚀 Features
+
+- ✅ Story Generation
+- ✅ Scene Breakdown
+- ✅ AI Director
+- ✅ Character Sheet
+- ✅ Prompt Generation
+- ✅ Export
+
+---
+
+## 🛠 Tech Stack
+
+| Frontend | Backend | AI | Database |
+|----------|---------|----|----------|
+| React | Node.js | LLM API | MongoDB (Future) |
+
+---
+
+## 📌 Roadmap
+
+| Version | Features |
+|----------|----------|
+| V1 | Story + Director + Prompts |
+| V2 | Video Generation |
+| V3 | Full AI Studio |
+
+---
+
+## 📜 License
+
+MIT
